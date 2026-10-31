@@ -1,0 +1,5 @@
+interface:
+  display_name: "Matt Status"
+  short_description: "All maps, decision frontiers, and implementation progress"
+policy:
+  allow_implicit_invocation: false
