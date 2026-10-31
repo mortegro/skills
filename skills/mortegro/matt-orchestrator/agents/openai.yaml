@@ -1,0 +1,5 @@
+interface:
+  display_name: "Matt Orchestrator"
+  short_description: "Drive a wayfinder map end to end from one herdr tab"
+policy:
+  allow_implicit_invocation: false
