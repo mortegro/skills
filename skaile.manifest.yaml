@@ -1,0 +1,50 @@
+publisher: mortegro
+assets:
+  - kind: skill
+    name: ask-matt
+    root: skills/engineering/ask-matt
+    version: 0.1.0
+  - kind: skill
+    name: code-review
+    root: skills/engineering/code-review
+    version: 0.1.0
+  - kind: skill
+    name: implement
+    root: skills/engineering/implement
+    version: 0.1.0
+  - kind: skill
+    name: resolving-merge-conflicts
+    root: skills/engineering/resolving-merge-conflicts
+    version: 0.1.0
+  - kind: skill
+    name: setup-matt-pocock-skills
+    root: skills/engineering/setup-matt-pocock-skills
+    version: 0.1.0
+  - kind: skill
+    name: to-spec
+    root: skills/engineering/to-spec
+    version: 0.1.0
+  - kind: skill
+    name: to-tickets
+    root: skills/engineering/to-tickets
+    version: 0.1.0
+  - kind: skill
+    name: triage
+    root: skills/engineering/triage
+    version: 0.1.0
+  - kind: skill
+    name: wayfinder
+    root: skills/engineering/wayfinder
+    version: 0.1.0
+  - kind: skill
+    name: matt-orchestrator
+    root: skills/mortegro/matt-orchestrator
+    version: 0.1.0
+  - kind: skill
+    name: matt-status
+    root: skills/mortegro/matt-status
+    version: 0.1.0
+  - kind: skill
+    name: grilling
+    root: skills/productivity/grilling
+    version: 0.1.0
